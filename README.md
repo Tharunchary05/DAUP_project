@@ -6,3 +6,5 @@
 
 [DATASET_3](https://github.com/Tharunchary05/DAUP_project/blob/main/audio_dataset.ipynb)
 
+[DOCUMENT](https://github.com/Tharunchary05/DAUP_project/blob/main/DAUP-DOCUMENT.docx)
+
