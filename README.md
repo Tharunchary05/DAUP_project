@@ -1,6 +1,4 @@
 ## DAUP PROJECT ##
 
-## DATASET_1 ##
-
 [DATASET_1 ](https://github.com/Tharunchary05/DAUP_project/blob/main/crime_dataset.ipynb)
 
